@@ -1,2 +1,1 @@
-print("Welcome by sumerr")
-
+print("Welcome by sumer")
